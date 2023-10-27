@@ -3,5 +3,5 @@
   "ticker": "KUBE",
   "description": "Single stake pool that is individually owned and operated. Formerly KAKE1 and ITN Verified.",
   "homepage": "https://www.thekuberoom.com/cardano-kube/",
-  "extended": "https://raw.githubusercontent.com/KingStake21/KUBE/main/ext.json"
+  "extended":"https://raw.githubusercontent.com/KingStake21/KUBE/main/ext.json"
 }
